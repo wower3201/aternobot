@@ -1,0 +1,9 @@
+{
+	"ip":"wower3201.aternos.me",
+	"port": 50943,
+	"name": "Wowerer",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register gatto2456",
+	"login-cmd":"/login gatto2456"
+}
